@@ -1,5 +1,5 @@
 #include <Arduino.h>
-const int ledPin = D2;
+const int ledPin=D2;
 
 void setup() {
   pinMode(ledPin, OUTPUT); 
